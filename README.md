@@ -2,6 +2,8 @@
 
 Login por formulario utilizando Handlebars y persistencia de sesiones en MongoDB Atlas.
 
+Para correr el proyecto, ejecutar en consola "npm run start".
+
 Endpoints:
 
 '/' => Servidor conectado
